@@ -4,9 +4,6 @@ Security icons for presentations, open-source, or other projects. Dumping ground
 ## Qualifiers
 Use vendor icons first, otherwise make one!  Icons should resemble the solution, e.g. use the same colors at least.
 
-## MIT License
-Yes, everything is open-source and fair-game to use as needed.
-
 ## Pull Request
 Want your product icon here or have an icon to share?
 
@@ -16,8 +13,9 @@ Use the following requirments:
 - Filenames: {tool}_{dimentsion}.{filetype}
 
 All fields are lowercase
-Tool: the lowercase name of the tool
-Dimension: either 128 or 256 (in pixels)
-Filetype: png, svg, or jpg
+- Tool: the lowercase name of the tool
+- Dimension: either 128 or 256 (in pixels)
+- Filetype: png, svg, or jpg
 
- 
+## MIT License
+Yes, everything is open-source and fair-game to use as needed. Please be sure to contribute back with some icons you've discovered or made too.  The more, the merrier.

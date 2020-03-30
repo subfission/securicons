@@ -18,4 +18,4 @@ All fields are lowercase
 - Filetype: png, svg, or jpg
 
 ## MIT License
-Yes, everything is open-source and fair-game to use as needed. Please be sure to contribute back with some icons you've discovered or made too.  The more, the merrier.
+Yes, everything is open-source and fair-game to use as needed. Please be sure to contribute back with some icons you've discovered or created.  The more, the merrier.
